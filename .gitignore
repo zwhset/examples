@@ -15,4 +15,6 @@
 .idea/
 
 # Key
-k8s/keys/*
+k8s/keys/*.json
+k8s/keys/*.yaml
+k8s/keys/*.yml

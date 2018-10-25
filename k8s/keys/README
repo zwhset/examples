@@ -1,0 +1,3 @@
+## please run and save to *.json
+
+```kubectl config view -o=json --raw=true```
