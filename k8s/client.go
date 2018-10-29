@@ -1,14 +1,14 @@
 package main
 
 import (
+	"github.com/ericchiang/k8s"
 	"io/ioutil"
 	"log"
-	"github.com/ericchiang/k8s"
 
-	corev1 "github.com/ericchiang/k8s/apis/core/v1"
 	"context"
-	"fmt"
 	"encoding/json"
+	"fmt"
+	corev1 "github.com/ericchiang/k8s/apis/core/v1"
 )
 
 func main() {
@@ -23,13 +23,13 @@ func main() {
 	// https://github.com/ericchiang/k8s/issues/81
 	var config k8s.Config
 	if err := json.Unmarshal(data, &config); err != nil {
-		log.Fatalf("Load Config JSON Fail, %s\n" ,err)
+		log.Fatalf("Load Config JSON Fail, %s\n", err)
 	}
 
 	// register client
 	client, err := k8s.NewClient(&config)
 	if err != nil {
-		log.Fatalf("Register Client Fail, %s\n" ,err)
+		log.Fatalf("Register Client Fail, %s\n", err)
 	}
 
 	// Call client.list return to nodes
