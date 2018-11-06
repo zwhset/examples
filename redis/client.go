@@ -1,24 +1,24 @@
 package main
 
 import (
+	"fmt"
 	"github.com/go-redis/redis"
 	"log"
-	"fmt"
 )
 
 var (
-	REDISADDR = "localhost:6379"
+	REDISADDR     = "localhost:6379"
 	REDISPASSWORD = ""
-	REDISDB = 8
+	REDISDB       = 8
 
 	SESSIONKEY = "UserSession"
 )
 
 func NewClient() *redis.Client {
 	opt := &redis.Options{
-		Addr: REDISADDR,
+		Addr:     REDISADDR,
 		Password: REDISPASSWORD,
-		DB: REDISDB,
+		DB:       REDISDB,
 	}
 	client := redis.NewClient(opt)
 	return client
@@ -41,7 +41,6 @@ func GetSessionKey(username string) string {
 	}
 	return str
 }
-
 
 func main() {
 	username := "zwhset"
