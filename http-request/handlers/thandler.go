@@ -1,10 +1,10 @@
 package handlers
 
 import (
-	"net/http"
-	"github.com/julienschmidt/httprouter"
-	"qianbao.com/examples/http-request/defs"
 	"encoding/json"
+	"github.com/julienschmidt/httprouter"
+	"net/http"
+	"qianbao.com/examples/http-request/defs"
 )
 
 func TestHandler(w http.ResponseWriter, r *http.Request, p httprouter.Params) {

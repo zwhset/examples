@@ -21,5 +21,3 @@ func main() {
 		log.Fatalf(err.Error())
 	}
 }
-
-
