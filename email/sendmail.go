@@ -1,20 +1,53 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
+	"io/ioutil"
 	"log"
 	"net/smtp"
 	"strings"
 )
 
-// Loading Config
+// init Loading Config
 var (
-	HOST     = "smtp.163.com"
-	PORT     = 25
-	SMTPADDR = fmt.Sprintf("%s:%d", HOST, PORT)
-	USER     = "user@163.com"
-	PASS     = "password"
+	HOST, SMTPADDR, USER, PASS string
+	PORT                       int
 )
+
+type Config struct {
+	Dev Env `json:"dev"`
+	Pro Env `json:"pro"`
+}
+
+type Env struct {
+	Email Email `json:"email"`
+}
+
+type Email struct {
+	Host     string `json:"host"`
+	Password string `json:"password"`
+	User     string `json:"user"`
+	Port     int    `json:"port"`
+}
+
+func init() {
+	config := Config{}
+	filename := "email/config.json"
+	fd, err := ioutil.ReadFile(filename)
+	if err != nil {
+		log.Fatalf("Don't fund Config file %s", filename)
+	}
+	if err := json.Unmarshal(fd, &config); err != nil {
+		log.Fatalf("Load Config Faild %s", err)
+	} else {
+		HOST = config.Dev.Email.Host
+		PORT = config.Dev.Email.Port
+		SMTPADDR = fmt.Sprintf("%s:%d", HOST, PORT)
+		USER = config.Dev.Email.User
+		PASS = config.Dev.Email.Password
+	}
+}
 
 func main() {
 	toUser := []string{"user1@qq.com", "user2@qq.com"}

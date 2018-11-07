@@ -1,0 +1,13 @@
+{
+  "dev": {
+    "email": {
+      "host": "smtp.163.com",
+      "password": "pass",
+      "user": "user@163.com",
+      "port": 25
+    }
+  },
+  "pro": {
+
+  }
+}
