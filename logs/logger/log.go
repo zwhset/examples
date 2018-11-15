@@ -1,0 +1,36 @@
+package logger
+
+import (
+	"github.com/op/go-logging"
+	"os"
+)
+
+var (
+	Logger = logging.MustGetLogger("examples")
+
+	LOGPATH = "glog/logs/example.log"
+)
+
+func init() {
+	// File
+	fd := logWriter(LOGPATH)
+	fileBackend := logging.NewLogBackend(fd, "", 0)
+	// Stdout
+	outBackend := logging.NewLogBackend(os.Stdout, "", 0)
+	format := logging.MustStringFormatter(
+		`%{time:2006-01-02 15:04:05.000} %{shortfunc} %{level:.4s} %{message}`,
+	)
+	fileBackendFormat := logging.NewBackendFormatter(fileBackend, format)
+	outBackendFormat := logging.NewBackendFormatter(outBackend, format)
+	logging.SetBackend(fileBackendFormat, outBackendFormat)
+}
+
+func logWriter(filename string) *os.File {
+	// return
+	fd, err := os.OpenFile(filename, os.O_RDWR|os.O_CREATE|os.O_APPEND, 0744)
+	if err != nil {
+		panic(err)
+	}
+
+	return fd
+}
