@@ -8,7 +8,7 @@ import (
 var (
 	Logger = logging.MustGetLogger("examples")
 
-	LOGPATH = "glog/logs/example.log"
+	LOGPATH = "logs/logs/example.log"
 )
 
 func init() {
@@ -18,7 +18,8 @@ func init() {
 	// Stdout
 	outBackend := logging.NewLogBackend(os.Stdout, "", 0)
 	format := logging.MustStringFormatter(
-		`%{time:2006-01-02 15:04:05.000} %{shortfunc} %{level:.4s} %{message}`,
+		// 2018-11-15 16:29:56.834 main.tLog INFO Info: main: 6
+		`[%{time:2006-01-02 15:04:05.000}] [%{level}] %{shortpkg}.%{longfunc}: %{message}`,
 	)
 	fileBackendFormat := logging.NewBackendFormatter(fileBackend, format)
 	outBackendFormat := logging.NewBackendFormatter(outBackend, format)

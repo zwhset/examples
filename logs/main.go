@@ -16,7 +16,7 @@ func main() {
 func tLog() {
 	i := 0
 	for {
-		logger.Logger.Info(fmt.Sprintf("Info: main: %d", i))
+		logger.Logger.Error(fmt.Sprintf("Info: main: %d", i))
 		i++
 		time.Sleep(time.Second)
 		if i > 100 {

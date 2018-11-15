@@ -365,3 +365,612 @@
 2018-11-15 16:18:27.530 tLog INFO Info: main: 54
 2018-11-15 16:18:28.532 tLog INFO Info: main: 55
 2018-11-15 16:18:28.532 tLog INFO Info: main: 55
+2018-11-15 16:24:08.869 main DEBU debug %!s(MISSING)
+2018-11-15 16:24:08.869 main INFO info
+2018-11-15 16:24:08.869 main NOTI notice
+2018-11-15 16:24:08.869 main WARN warning
+2018-11-15 16:24:08.869 main ERRO err
+2018-11-15 16:24:08.869 main CRIT crit
+2018-11-15 16:25:35.152 main DEBU debug %!s(MISSING)
+2018-11-15 16:25:35.152 main INFO info
+2018-11-15 16:25:35.152 main NOTI notice
+2018-11-15 16:25:35.152 main WARN warning
+2018-11-15 16:25:35.152 main ERRO err
+2018-11-15 16:25:35.152 main CRIT crit
+2018-11-15 16:25:46.134 main DEBU debug %!s(MISSING)
+2018-11-15 16:25:46.134 main INFO info
+2018-11-15 16:25:46.134 main NOTI notice
+2018-11-15 16:25:46.134 main WARN warning
+2018-11-15 16:25:46.134 main ERRO err
+2018-11-15 16:25:46.134 main CRIT crit
+2018-11-15 16:26:08.441 Printlog INFO PrintLog goroutine: 0
+2018-11-15 16:26:08.441 tLog INFO Info: main: 0
+2018-11-15 16:26:08.441 tLog INFO Info: main: 0
+2018-11-15 16:26:09.442 tLog INFO Info: main: 1
+2018-11-15 16:26:09.442 tLog INFO Info: main: 1
+2018-11-15 16:26:10.444 tLog INFO Info: main: 2
+2018-11-15 16:26:10.445 Printlog INFO PrintLog goroutine: 1
+2018-11-15 16:26:10.447 tLog INFO Info: main: 2
+2018-11-15 16:26:11.446 tLog INFO Info: main: 3
+2018-11-15 16:26:11.451 tLog INFO Info: main: 3
+2018-11-15 16:26:12.450 tLog INFO Info: main: 4
+2018-11-15 16:26:12.450 Printlog INFO PrintLog goroutine: 2
+2018-11-15 16:26:12.456 tLog INFO Info: main: 4
+2018-11-15 16:26:13.455 tLog INFO Info: main: 5
+2018-11-15 16:26:13.460 tLog INFO Info: main: 5
+2018-11-15 16:26:14.453 Printlog INFO PrintLog goroutine: 3
+2018-11-15 16:26:14.455 tLog INFO Info: main: 6
+2018-11-15 16:26:14.465 tLog INFO Info: main: 6
+2018-11-15 16:26:15.460 tLog INFO Info: main: 7
+2018-11-15 16:26:15.466 tLog INFO Info: main: 7
+2018-11-15 16:26:43.167 main.Printlog INFO PrintLog goroutine: 0
+2018-11-15 16:26:43.167  INFO Info: main: 0
+2018-11-15 16:26:43.167  INFO Info: main: 0
+2018-11-15 16:26:44.167  INFO Info: main: 1
+2018-11-15 16:26:44.168  INFO Info: main: 1
+2018-11-15 16:26:45.169  INFO Info: main: 2
+2018-11-15 16:26:45.169  INFO Info: main: 2
+2018-11-15 16:26:45.169 main.Printlog INFO PrintLog goroutine: 1
+2018-11-15 16:26:46.174  INFO Info: main: 3
+2018-11-15 16:26:46.174  INFO Info: main: 3
+2018-11-15 16:26:47.173 main.Printlog INFO PrintLog goroutine: 2
+2018-11-15 16:26:47.175  INFO Info: main: 4
+2018-11-15 16:26:47.180  INFO Info: main: 4
+2018-11-15 16:26:48.176  INFO Info: main: 5
+2018-11-15 16:26:48.182  INFO Info: main: 5
+2018-11-15 16:26:49.174 main.Printlog INFO PrintLog goroutine: 3
+2018-11-15 16:26:49.180  INFO Info: main: 6
+2018-11-15 16:26:49.183  INFO Info: main: 6
+2018-11-15 16:26:50.186  INFO Info: main: 7
+2018-11-15 16:26:50.186  INFO Info: main: 7
+2018-11-15 16:26:51.175 main.Printlog INFO PrintLog goroutine: 4
+2018-11-15 16:26:51.189  INFO Info: main: 8
+2018-11-15 16:26:51.189  INFO Info: main: 8
+2018-11-15 16:26:52.194  INFO Info: main: 9
+2018-11-15 16:26:52.194  INFO Info: main: 9
+2018-11-15 16:26:53.177 main.Printlog INFO PrintLog goroutine: 5
+2018-11-15 16:26:53.196  INFO Info: main: 10
+2018-11-15 16:26:53.196  INFO Info: main: 10
+2018-11-15 16:26:54.198  INFO Info: main: 11
+2018-11-15 16:26:54.198  INFO Info: main: 11
+2018-11-15 16:26:55.178 main.Printlog INFO PrintLog goroutine: 6
+2018-11-15 16:26:55.203  INFO Info: main: 12
+2018-11-15 16:26:55.203  INFO Info: main: 12
+2018-11-15 16:26:56.207  INFO Info: main: 13
+2018-11-15 16:26:56.207  INFO Info: main: 13
+2018-11-15 16:26:57.187 main.Printlog INFO PrintLog goroutine: 7
+2018-11-15 16:26:57.210  INFO Info: main: 14
+2018-11-15 16:26:57.210  INFO Info: main: 14
+2018-11-15 16:26:58.211  INFO Info: main: 15
+2018-11-15 16:26:58.211  INFO Info: main: 15
+2018-11-15 16:26:59.192 main.Printlog INFO PrintLog goroutine: 8
+2018-11-15 16:26:59.213  INFO Info: main: 16
+2018-11-15 16:26:59.213  INFO Info: main: 16
+2018-11-15 16:27:00.218  INFO Info: main: 17
+2018-11-15 16:27:00.218  INFO Info: main: 17
+2018-11-15 16:27:01.194 main.Printlog INFO PrintLog goroutine: 9
+2018-11-15 16:27:01.221  INFO Info: main: 18
+2018-11-15 16:27:01.221  INFO Info: main: 18
+2018-11-15 16:27:02.223  INFO Info: main: 19
+2018-11-15 16:27:02.223  INFO Info: main: 19
+2018-11-15 16:27:03.197 main.Printlog INFO PrintLog goroutine: 10
+2018-11-15 16:27:03.224  INFO Info: main: 20
+2018-11-15 16:27:03.224  INFO Info: main: 20
+2018-11-15 16:27:04.227  INFO Info: main: 21
+2018-11-15 16:27:04.227  INFO Info: main: 21
+2018-11-15 16:27:05.202 main.Printlog INFO PrintLog goroutine: 11
+2018-11-15 16:27:05.231  INFO Info: main: 22
+2018-11-15 16:27:05.231  INFO Info: main: 22
+2018-11-15 16:27:06.233  INFO Info: main: 23
+2018-11-15 16:27:06.233  INFO Info: main: 23
+2018-11-15 16:27:07.204 main.Printlog INFO PrintLog goroutine: 12
+2018-11-15 16:27:07.234  INFO Info: main: 24
+2018-11-15 16:27:07.234  INFO Info: main: 24
+2018-11-15 16:27:08.238  INFO Info: main: 25
+2018-11-15 16:27:08.239  INFO Info: main: 25
+2018-11-15 16:27:09.209 main.Printlog INFO PrintLog goroutine: 13
+2018-11-15 16:27:09.243  INFO Info: main: 26
+2018-11-15 16:27:09.243  INFO Info: main: 26
+2018-11-15 16:27:10.247  INFO Info: main: 27
+2018-11-15 16:27:10.247  INFO Info: main: 27
+2018-11-15 16:27:11.213 main.Printlog INFO PrintLog goroutine: 14
+2018-11-15 16:27:11.253  INFO Info: main: 28
+2018-11-15 16:27:11.253  INFO Info: main: 28
+2018-11-15 16:27:12.254  INFO Info: main: 29
+2018-11-15 16:27:12.254  INFO Info: main: 29
+2018-11-15 16:27:13.216 main.Printlog INFO PrintLog goroutine: 15
+2018-11-15 16:27:13.259  INFO Info: main: 30
+2018-11-15 16:27:13.259  INFO Info: main: 30
+2018-11-15 16:27:14.262  INFO Info: main: 31
+2018-11-15 16:27:14.262  INFO Info: main: 31
+2018-11-15 16:27:15.218 main.Printlog INFO PrintLog goroutine: 16
+2018-11-15 16:27:15.267  INFO Info: main: 32
+2018-11-15 16:27:15.268  INFO Info: main: 32
+2018-11-15 16:27:16.270  INFO Info: main: 33
+2018-11-15 16:27:16.270  INFO Info: main: 33
+2018-11-15 16:27:17.221 main.Printlog INFO PrintLog goroutine: 17
+2018-11-15 16:27:17.270  INFO Info: main: 34
+2018-11-15 16:27:17.270  INFO Info: main: 34
+2018-11-15 16:27:18.276  INFO Info: main: 35
+2018-11-15 16:27:18.276  INFO Info: main: 35
+2018-11-15 16:27:19.227 main.Printlog INFO PrintLog goroutine: 18
+2018-11-15 16:27:19.279  INFO Info: main: 36
+2018-11-15 16:27:19.279  INFO Info: main: 36
+2018-11-15 16:27:20.284  INFO Info: main: 37
+2018-11-15 16:27:20.284  INFO Info: main: 37
+2018-11-15 16:27:21.231 main.Printlog INFO PrintLog goroutine: 19
+2018-11-15 16:27:21.287  INFO Info: main: 38
+2018-11-15 16:27:21.288  INFO Info: main: 38
+2018-11-15 16:27:22.293  INFO Info: main: 39
+2018-11-15 16:27:22.293  INFO Info: main: 39
+2018-11-15 16:27:23.236 main.Printlog INFO PrintLog goroutine: 20
+2018-11-15 16:27:23.297  INFO Info: main: 40
+2018-11-15 16:27:23.297  INFO Info: main: 40
+2018-11-15 16:27:24.298  INFO Info: main: 41
+2018-11-15 16:27:24.298  INFO Info: main: 41
+2018-11-15 16:28:10.879 qianbao.com/examples/logs/other main.Printlog INFO PrintLog goroutine: 0
+2018-11-15 16:28:10.879 main  INFO Info: main: 0
+2018-11-15 16:28:10.879 main  INFO Info: main: 0
+2018-11-15 16:28:11.882 main  INFO Info: main: 1
+2018-11-15 16:28:11.882 main  INFO Info: main: 1
+2018-11-15 16:28:12.884 main  INFO Info: main: 2
+2018-11-15 16:28:12.884 main  INFO Info: main: 2
+2018-11-15 16:28:12.884 qianbao.com/examples/logs/other main.Printlog INFO PrintLog goroutine: 1
+2018-11-15 16:28:13.884 main  INFO Info: main: 3
+2018-11-15 16:28:13.884 main  INFO Info: main: 3
+2018-11-15 16:28:27.156 other main.Printlog INFO PrintLog goroutine: 0
+2018-11-15 16:28:27.156 main  INFO Info: main: 0
+2018-11-15 16:28:27.156 main  INFO Info: main: 0
+2018-11-15 16:28:28.157 main  INFO Info: main: 1
+2018-11-15 16:28:28.157 main  INFO Info: main: 1
+2018-11-15 16:28:29.159 other main.Printlog INFO PrintLog goroutine: 1
+2018-11-15 16:28:29.163 main  INFO Info: main: 2
+2018-11-15 16:28:29.163 main  INFO Info: main: 2
+2018-11-15 16:28:30.165 main  INFO Info: main: 3
+2018-11-15 16:28:30.165 main  INFO Info: main: 3
+2018-11-15 16:28:31.159 other main.Printlog INFO PrintLog goroutine: 2
+2018-11-15 16:28:31.166 main  INFO Info: main: 4
+2018-11-15 16:28:31.168 main  INFO Info: main: 4
+2018-11-15 16:28:40.146 other Printlog INFO PrintLog goroutine: 0
+2018-11-15 16:28:40.146 main tLog INFO Info: main: 0
+2018-11-15 16:28:40.146 main tLog INFO Info: main: 0
+2018-11-15 16:28:41.152 main tLog INFO Info: main: 1
+2018-11-15 16:28:41.152 main tLog INFO Info: main: 1
+2018-11-15 16:28:42.150 other Printlog INFO PrintLog goroutine: 1
+2018-11-15 16:28:42.153 main tLog INFO Info: main: 2
+2018-11-15 16:28:42.153 main tLog INFO Info: main: 2
+2018-11-15 16:28:43.158 main tLog INFO Info: main: 3
+2018-11-15 16:28:43.158 main tLog INFO Info: main: 3
+2018-11-15 16:28:44.153 other Printlog INFO PrintLog goroutine: 2
+2018-11-15 16:28:44.159 main tLog INFO Info: main: 4
+2018-11-15 16:28:44.159 main tLog INFO Info: main: 4
+2018-11-15 16:28:45.162 main tLog INFO Info: main: 5
+2018-11-15 16:28:45.162 main tLog INFO Info: main: 5
+2018-11-15 16:28:46.159 other Printlog INFO PrintLog goroutine: 3
+2018-11-15 16:28:46.163 main tLog INFO Info: main: 6
+2018-11-15 16:28:46.164 main tLog INFO Info: main: 6
+2018-11-15 16:28:47.166 main tLog INFO Info: main: 7
+2018-11-15 16:28:47.166 main tLog INFO Info: main: 7
+2018-11-15 16:28:48.161 other Printlog INFO PrintLog goroutine: 4
+2018-11-15 16:28:48.168 main tLog INFO Info: main: 8
+2018-11-15 16:28:48.168 main tLog INFO Info: main: 8
+2018-11-15 16:28:49.173 main tLog INFO Info: main: 9
+2018-11-15 16:28:49.173 main tLog INFO Info: main: 9
+2018-11-15 16:28:50.165 other Printlog INFO PrintLog goroutine: 5
+2018-11-15 16:28:50.174 main tLog INFO Info: main: 10
+2018-11-15 16:28:50.174 main tLog INFO Info: main: 10
+2018-11-15 16:28:51.177 main tLog INFO Info: main: 11
+2018-11-15 16:28:51.177 main tLog INFO Info: main: 11
+2018-11-15 16:28:52.168 other Printlog INFO PrintLog goroutine: 6
+2018-11-15 16:28:52.180 main tLog INFO Info: main: 12
+2018-11-15 16:28:52.181 main tLog INFO Info: main: 12
+2018-11-15 16:28:53.184 main tLog INFO Info: main: 13
+2018-11-15 16:28:53.186 main tLog INFO Info: main: 13
+2018-11-15 16:28:54.173 other Printlog INFO PrintLog goroutine: 7
+2018-11-15 16:28:54.187 main tLog INFO Info: main: 14
+2018-11-15 16:28:54.187 main tLog INFO Info: main: 14
+2018-11-15 16:28:55.191 main tLog INFO Info: main: 15
+2018-11-15 16:28:55.192 main tLog INFO Info: main: 15
+2018-11-15 16:28:56.177 other Printlog INFO PrintLog goroutine: 8
+2018-11-15 16:28:56.201 main tLog INFO Info: main: 16
+2018-11-15 16:28:56.201 main tLog INFO Info: main: 16
+2018-11-15 16:28:57.204 main tLog INFO Info: main: 17
+2018-11-15 16:28:57.204 main tLog INFO Info: main: 17
+2018-11-15 16:28:58.180 other Printlog INFO PrintLog goroutine: 9
+2018-11-15 16:28:58.209 main tLog INFO Info: main: 18
+2018-11-15 16:28:58.209 main tLog INFO Info: main: 18
+2018-11-15 16:28:59.210 main tLog INFO Info: main: 19
+2018-11-15 16:28:59.210 main tLog INFO Info: main: 19
+2018-11-15 16:29:00.181 other Printlog INFO PrintLog goroutine: 10
+2018-11-15 16:29:00.213 main tLog INFO Info: main: 20
+2018-11-15 16:29:00.213 main tLog INFO Info: main: 20
+2018-11-15 16:29:01.218 main tLog INFO Info: main: 21
+2018-11-15 16:29:01.218 main tLog INFO Info: main: 21
+2018-11-15 16:29:02.186 other Printlog INFO PrintLog goroutine: 11
+2018-11-15 16:29:02.219 main tLog INFO Info: main: 22
+2018-11-15 16:29:02.220 main tLog INFO Info: main: 22
+2018-11-15 16:29:03.223 main tLog INFO Info: main: 23
+2018-11-15 16:29:03.223 main tLog INFO Info: main: 23
+2018-11-15 16:29:04.190 other Printlog INFO PrintLog goroutine: 12
+2018-11-15 16:29:04.229 main tLog INFO Info: main: 24
+2018-11-15 16:29:04.229 main tLog INFO Info: main: 24
+2018-11-15 16:29:16.075 main.Printlog INFO PrintLog goroutine: 0
+2018-11-15 16:29:16.075  INFO Info: main: 0
+2018-11-15 16:29:16.075  INFO Info: main: 0
+2018-11-15 16:29:17.077  INFO Info: main: 1
+2018-11-15 16:29:17.077  INFO Info: main: 1
+2018-11-15 16:29:18.078 main.Printlog INFO PrintLog goroutine: 1
+2018-11-15 16:29:18.082  INFO Info: main: 2
+2018-11-15 16:29:18.082  INFO Info: main: 2
+2018-11-15 16:29:19.086  INFO Info: main: 3
+2018-11-15 16:29:19.086  INFO Info: main: 3
+2018-11-15 16:29:20.083 main.Printlog INFO PrintLog goroutine: 2
+2018-11-15 16:29:20.087  INFO Info: main: 4
+2018-11-15 16:29:20.089  INFO Info: main: 4
+2018-11-15 16:29:30.905 Printlog INFO PrintLog goroutine: 0
+2018-11-15 16:29:30.905 tLog INFO Info: main: 0
+2018-11-15 16:29:30.905 tLog INFO Info: main: 0
+2018-11-15 16:29:31.910 tLog INFO Info: main: 1
+2018-11-15 16:29:31.910 tLog INFO Info: main: 1
+2018-11-15 16:29:32.909 Printlog INFO PrintLog goroutine: 1
+2018-11-15 16:29:32.915 tLog INFO Info: main: 2
+2018-11-15 16:29:32.915 tLog INFO Info: main: 2
+2018-11-15 16:29:33.917 tLog INFO Info: main: 3
+2018-11-15 16:29:33.917 tLog INFO Info: main: 3
+2018-11-15 16:29:34.910 Printlog INFO PrintLog goroutine: 2
+2018-11-15 16:29:34.919 tLog INFO Info: main: 4
+2018-11-15 16:29:34.919 tLog INFO Info: main: 4
+2018-11-15 16:29:35.922 tLog INFO Info: main: 5
+2018-11-15 16:29:35.922 tLog INFO Info: main: 5
+2018-11-15 16:29:36.915 Printlog INFO PrintLog goroutine: 3
+2018-11-15 16:29:36.924 tLog INFO Info: main: 6
+2018-11-15 16:29:36.927 tLog INFO Info: main: 6
+2018-11-15 16:29:37.926 tLog INFO Info: main: 7
+2018-11-15 16:29:37.928 tLog INFO Info: main: 7
+2018-11-15 16:29:38.920 Printlog INFO PrintLog goroutine: 4
+2018-11-15 16:29:38.930 tLog INFO Info: main: 8
+2018-11-15 16:29:38.930 tLog INFO Info: main: 8
+2018-11-15 16:29:50.815 other.Printlog INFO PrintLog goroutine: 0
+2018-11-15 16:29:50.815 main.tLog INFO Info: main: 0
+2018-11-15 16:29:50.815 main.tLog INFO Info: main: 0
+2018-11-15 16:29:51.817 main.tLog INFO Info: main: 1
+2018-11-15 16:29:51.817 main.tLog INFO Info: main: 1
+2018-11-15 16:29:52.819 main.tLog INFO Info: main: 2
+2018-11-15 16:29:52.819 other.Printlog INFO PrintLog goroutine: 1
+2018-11-15 16:29:52.819 main.tLog INFO Info: main: 2
+2018-11-15 16:29:53.823 main.tLog INFO Info: main: 3
+2018-11-15 16:29:53.823 main.tLog INFO Info: main: 3
+2018-11-15 16:29:54.820 other.Printlog INFO PrintLog goroutine: 2
+2018-11-15 16:29:54.824 main.tLog INFO Info: main: 4
+2018-11-15 16:29:54.827 main.tLog INFO Info: main: 4
+2018-11-15 16:29:55.828 main.tLog INFO Info: main: 5
+2018-11-15 16:29:55.831 main.tLog INFO Info: main: 5
+2018-11-15 16:29:56.826 other.Printlog INFO PrintLog goroutine: 3
+2018-11-15 16:29:56.834 main.tLog INFO Info: main: 6
+2018-11-15 16:29:56.837 main.tLog INFO Info: main: 6
+2018-11-15 16:29:57.838 main.tLog INFO Info: main: 7
+2018-11-15 16:29:57.842 main.tLog INFO Info: main: 7
+2018-11-15 16:29:58.831 other.Printlog INFO PrintLog goroutine: 4
+2018-11-15 16:29:58.839 main.tLog INFO Info: main: 8
+2018-11-15 16:29:58.842 main.tLog INFO Info: main: 8
+2018-11-15 16:29:59.844 main.tLog INFO Info: main: 9
+2018-11-15 16:29:59.847 main.tLog INFO Info: main: 9
+2018-11-15 16:30:00.835 other.Printlog INFO PrintLog goroutine: 5
+2018-11-15 16:30:00.847 main.tLog INFO Info: main: 10
+2018-11-15 16:30:00.849 main.tLog INFO Info: main: 10
+2018-11-15 16:30:01.850 main.tLog INFO Info: main: 11
+2018-11-15 16:30:01.850 main.tLog INFO Info: main: 11
+2018-11-15 16:30:02.835 other.Printlog INFO PrintLog goroutine: 6
+2018-11-15 16:30:02.852 main.tLog INFO Info: main: 12
+2018-11-15 16:30:02.852 main.tLog INFO Info: main: 12
+2018-11-15 16:30:03.853 main.tLog INFO Info: main: 13
+2018-11-15 16:30:03.853 main.tLog INFO Info: main: 13
+2018-11-15 16:30:04.837 other.Printlog INFO PrintLog goroutine: 7
+2018-11-15 16:30:04.857 main.tLog INFO Info: main: 14
+2018-11-15 16:30:04.857 main.tLog INFO Info: main: 14
+2018-11-15 16:30:05.858 main.tLog INFO Info: main: 15
+2018-11-15 16:30:05.858 main.tLog INFO Info: main: 15
+2018-11-15 16:30:35.022 other.Printlog INFO PrintLog goroutine: 0
+2018-11-15 16:30:35.022 main.tLog INFO Info: main: 0
+2018-11-15 16:30:35.022 main.tLog INFO Info: main: 0
+2018-11-15 16:30:36.022 main.tLog INFO Info: main: 1
+2018-11-15 16:30:36.022 main.tLog INFO Info: main: 1
+2018-11-15 16:30:37.027 main.tLog INFO Info: main: 2
+2018-11-15 16:30:37.027 main.tLog INFO Info: main: 2
+2018-11-15 16:30:37.027 other.Printlog INFO PrintLog goroutine: 1
+2018-11-15 16:30:38.031 main.tLog INFO Info: main: 3
+2018-11-15 16:30:38.031 main.tLog INFO Info: main: 3
+2018-11-15 16:30:39.030 other.Printlog INFO PrintLog goroutine: 2
+2018-11-15 16:30:39.034 main.tLog INFO Info: main: 4
+2018-11-15 16:30:39.034 main.tLog INFO Info: main: 4
+2018-11-15 16:30:40.035 main.tLog INFO Info: main: 5
+2018-11-15 16:30:40.036 main.tLog INFO Info: main: 5
+2018-11-15 16:30:41.036 other.Printlog INFO PrintLog goroutine: 3
+2018-11-15 16:30:41.036 main.tLog INFO Info: main: 6
+2018-11-15 16:30:41.036 main.tLog INFO Info: main: 6
+2018-11-15 16:30:42.038 main.tLog INFO Info: main: 7
+2018-11-15 16:30:42.038 main.tLog INFO Info: main: 7
+2018-11-15 16:30:43.039 other.Printlog INFO PrintLog goroutine: 4
+2018-11-15 16:30:43.039 main.tLog INFO Info: main: 8
+2018-11-15 16:30:43.039 main.tLog INFO Info: main: 8
+2018-11-15 16:30:44.043 main.tLog INFO Info: main: 9
+2018-11-15 16:30:44.043 main.tLog INFO Info: main: 9
+2018-11-15 16:31:59.111 other.Printlog INFO PrintLog goroutine: 0
+2018-11-15 16:31:59.111 main.tLog ERROR Info: main: 0
+2018-11-15 16:31:59.111 main.tLog ERROR Info: main: 0
+2018-11-15 16:32:00.114 main.tLog ERROR Info: main: 1
+2018-11-15 16:32:00.114 main.tLog ERROR Info: main: 1
+2018-11-15 16:32:01.112 other.Printlog INFO PrintLog goroutine: 1
+2018-11-15 16:32:01.115 main.tLog ERROR Info: main: 2
+2018-11-15 16:32:01.118 main.tLog ERROR Info: main: 2
+2018-11-15 16:32:02.118 main.tLog ERROR Info: main: 3
+2018-11-15 16:32:02.118 main.tLog ERROR Info: main: 3
+2018-11-15 16:32:03.116 other.Printlog INFO PrintLog goroutine: 2
+2018-11-15 16:32:03.118 main.tLog ERROR Info: main: 4
+2018-11-15 16:32:03.118 main.tLog ERROR Info: main: 4
+2018-11-15 16:32:04.123 main.tLog ERROR Info: main: 5
+2018-11-15 16:32:04.123 main.tLog ERROR Info: main: 5
+2018-11-15 16:32:05.117 other.Printlog INFO PrintLog goroutine: 3
+2018-11-15 16:32:05.123 main.tLog ERROR Info: main: 6
+2018-11-15 16:32:05.123 main.tLog ERROR Info: main: 6
+2018-11-15 16:32:06.128 main.tLog ERROR Info: main: 7
+2018-11-15 16:32:06.128 main.tLog ERROR Info: main: 7
+2018-11-15 16:32:07.121 other.Printlog INFO PrintLog goroutine: 4
+2018-11-15 16:32:07.129 main.tLog ERROR Info: main: 8
+2018-11-15 16:32:07.129 main.tLog ERROR Info: main: 8
+2018-11-15 16:32:08.130 main.tLog ERROR Info: main: 9
+2018-11-15 16:32:08.130 main.tLog ERROR Info: main: 9
+2018-11-15 16:32:09.124 other.Printlog INFO PrintLog goroutine: 5
+2018-11-15 16:32:09.131 main.tLog ERROR Info: main: 10
+2018-11-15 16:32:09.130 main.tLog ERROR Info: main: 10
+2018-11-15 16:32:10.131 main.tLog ERROR Info: main: 11
+2018-11-15 16:32:10.131 main.tLog ERROR Info: main: 11
+2018-11-15 16:32:11.127 other.Printlog INFO PrintLog goroutine: 6
+2018-11-15 16:32:11.132 main.tLog ERROR Info: main: 12
+2018-11-15 16:32:11.134 main.tLog ERROR Info: main: 12
+2018-11-15 16:32:12.135 main.tLog ERROR Info: main: 13
+2018-11-15 16:32:12.137 main.tLog ERROR Info: main: 13
+2018-11-15 16:32:13.130 other.Printlog INFO PrintLog goroutine: 7
+2018-11-15 16:32:13.137 main.tLog ERROR Info: main: 14
+2018-11-15 16:32:13.137 main.tLog ERROR Info: main: 14
+2018-11-15 16:32:14.139 main.tLog ERROR Info: main: 15
+2018-11-15 16:32:14.139 main.tLog ERROR Info: main: 15
+2018-11-15 16:32:15.134 other.Printlog INFO PrintLog goroutine: 8
+2018-11-15 16:32:15.140 main.tLog ERROR Info: main: 16
+2018-11-15 16:32:15.140 main.tLog ERROR Info: main: 16
+2018-11-15 16:32:16.144 main.tLog ERROR Info: main: 17
+2018-11-15 16:32:16.144 main.tLog ERROR Info: main: 17
+2018-11-15 16:32:17.135 other.Printlog INFO PrintLog goroutine: 9
+2018-11-15 16:32:17.145 main.tLog ERROR Info: main: 18
+2018-11-15 16:32:17.147 main.tLog ERROR Info: main: 18
+2018-11-15 16:32:18.146 main.tLog ERROR Info: main: 19
+2018-11-15 16:32:18.151 main.tLog ERROR Info: main: 19
+2018-11-15 16:32:19.139 other.Printlog INFO PrintLog goroutine: 10
+2018-11-15 16:32:19.150 main.tLog ERROR Info: main: 20
+2018-11-15 16:32:19.153 main.tLog ERROR Info: main: 20
+2018-11-15 16:32:20.154 main.tLog ERROR Info: main: 21
+2018-11-15 16:32:20.154 main.tLog ERROR Info: main: 21
+2018-11-15 16:32:21.143 other.Printlog INFO PrintLog goroutine: 11
+2018-11-15 16:32:21.155 main.tLog ERROR Info: main: 22
+2018-11-15 16:32:21.158 main.tLog ERROR Info: main: 22
+2018-11-15 16:32:22.159 main.tLog ERROR Info: main: 23
+2018-11-15 16:32:22.163 main.tLog ERROR Info: main: 23
+2018-11-15 16:32:23.148 other.Printlog INFO PrintLog goroutine: 12
+2018-11-15 16:32:23.162 main.tLog ERROR Info: main: 24
+2018-11-15 16:32:23.164 main.tLog ERROR Info: main: 24
+2018-11-15 16:32:24.164 main.tLog ERROR Info: main: 25
+2018-11-15 16:32:24.164 main.tLog ERROR Info: main: 25
+2018-11-15 16:32:25.151 other.Printlog INFO PrintLog goroutine: 13
+2018-11-15 16:32:25.166 main.tLog ERROR Info: main: 26
+2018-11-15 16:32:25.166 main.tLog ERROR Info: main: 26
+2018-11-15 16:32:26.169 main.tLog ERROR Info: main: 27
+2018-11-15 16:32:26.169 main.tLog ERROR Info: main: 27
+2018-11-15 16:32:27.158 other.Printlog INFO PrintLog goroutine: 14
+2018-11-15 16:32:27.171 main.tLog ERROR Info: main: 28
+2018-11-15 16:32:27.173 main.tLog ERROR Info: main: 28
+2018-11-15 16:32:28.174 main.tLog ERROR Info: main: 29
+2018-11-15 16:32:28.178 main.tLog ERROR Info: main: 29
+2018-11-15 16:32:29.162 other.Printlog INFO PrintLog goroutine: 15
+2018-11-15 16:32:29.178 main.tLog ERROR Info: main: 30
+2018-11-15 16:32:29.178 main.tLog ERROR Info: main: 30
+2018-11-15 16:32:30.181 main.tLog ERROR Info: main: 31
+2018-11-15 16:32:30.181 main.tLog ERROR Info: main: 31
+2018-11-15 16:32:31.166 other.Printlog INFO PrintLog goroutine: 16
+2018-11-15 16:32:31.186 main.tLog ERROR Info: main: 32
+2018-11-15 16:32:31.186 main.tLog ERROR Info: main: 32
+2018-11-15 16:32:32.190 main.tLog ERROR Info: main: 33
+2018-11-15 16:32:32.190 main.tLog ERROR Info: main: 33
+2018-11-15 16:32:33.170 other.Printlog INFO PrintLog goroutine: 17
+2018-11-15 16:32:33.195 main.tLog ERROR Info: main: 34
+2018-11-15 16:32:33.195 main.tLog ERROR Info: main: 34
+2018-11-15 16:32:34.197 main.tLog ERROR Info: main: 35
+2018-11-15 16:32:34.197 main.tLog ERROR Info: main: 35
+2018-11-15 16:32:35.173 other.Printlog INFO PrintLog goroutine: 18
+2018-11-15 16:32:35.200 main.tLog ERROR Info: main: 36
+2018-11-15 16:32:35.200 main.tLog ERROR Info: main: 36
+2018-11-15 16:32:36.203 main.tLog ERROR Info: main: 37
+2018-11-15 16:32:36.203 main.tLog ERROR Info: main: 37
+2018-11-15 16:32:37.177 other.Printlog INFO PrintLog goroutine: 19
+2018-11-15 16:32:37.205 main.tLog ERROR Info: main: 38
+2018-11-15 16:32:37.205 main.tLog ERROR Info: main: 38
+2018-11-15 16:32:38.206 main.tLog ERROR Info: main: 39
+2018-11-15 16:32:38.206 main.tLog ERROR Info: main: 39
+2018-11-15 16:32:39.181 other.Printlog INFO PrintLog goroutine: 20
+2018-11-15 16:32:39.209 main.tLog ERROR Info: main: 40
+2018-11-15 16:32:39.209 main.tLog ERROR Info: main: 40
+2018-11-15 16:32:40.211 main.tLog ERROR Info: main: 41
+2018-11-15 16:32:40.211 main.tLog ERROR Info: main: 41
+2018-11-15 16:32:41.186 other.Printlog INFO PrintLog goroutine: 21
+2018-11-15 16:32:41.217 main.tLog ERROR Info: main: 42
+2018-11-15 16:32:41.217 main.tLog ERROR Info: main: 42
+2018-11-15 16:32:42.219 main.tLog ERROR Info: main: 43
+2018-11-15 16:32:42.219 main.tLog ERROR Info: main: 43
+2018-11-15 16:32:43.189 other.Printlog INFO PrintLog goroutine: 22
+2018-11-15 16:32:43.223 main.tLog ERROR Info: main: 44
+2018-11-15 16:32:43.223 main.tLog ERROR Info: main: 44
+2018-11-15 16:32:44.228 main.tLog ERROR Info: main: 45
+2018-11-15 16:32:44.228 main.tLog ERROR Info: main: 45
+2018-11-15 16:32:45.191 other.Printlog INFO PrintLog goroutine: 23
+2018-11-15 16:32:45.232 main.tLog ERROR Info: main: 46
+2018-11-15 16:32:45.232 main.tLog ERROR Info: main: 46
+2018-11-15 16:32:46.236 main.tLog ERROR Info: main: 47
+2018-11-15 16:32:46.236 main.tLog ERROR Info: main: 47
+2018-11-15 16:32:47.194 other.Printlog INFO PrintLog goroutine: 24
+2018-11-15 16:32:47.239 main.tLog ERROR Info: main: 48
+2018-11-15 16:32:47.239 main.tLog ERROR Info: main: 48
+2018-11-15 16:32:48.244 main.tLog ERROR Info: main: 49
+2018-11-15 16:32:48.244 main.tLog ERROR Info: main: 49
+2018-11-15 16:32:49.199 other.Printlog INFO PrintLog goroutine: 25
+2018-11-15 16:32:49.247 main.tLog ERROR Info: main: 50
+2018-11-15 16:32:49.247 main.tLog ERROR Info: main: 50
+2018-11-15 16:32:50.252 main.tLog ERROR Info: main: 51
+2018-11-15 16:32:50.252 main.tLog ERROR Info: main: 51
+2018-11-15 16:32:51.203 other.Printlog INFO PrintLog goroutine: 26
+2018-11-15 16:32:51.256 main.tLog ERROR Info: main: 52
+2018-11-15 16:32:51.256 main.tLog ERROR Info: main: 52
+2018-11-15 16:32:52.261 main.tLog ERROR Info: main: 53
+2018-11-15 16:32:52.261 main.tLog ERROR Info: main: 53
+2018-11-15 16:32:53.207 other.Printlog INFO PrintLog goroutine: 27
+2018-11-15 16:32:53.263 main.tLog ERROR Info: main: 54
+2018-11-15 16:32:53.263 main.tLog ERROR Info: main: 54
+2018-11-15 16:32:54.268 main.tLog ERROR Info: main: 55
+2018-11-15 16:32:54.268 main.tLog ERROR Info: main: 55
+2018-11-15 16:32:55.211 other.Printlog INFO PrintLog goroutine: 28
+2018-11-15 16:32:55.273 main.tLog ERROR Info: main: 56
+2018-11-15 16:32:55.273 main.tLog ERROR Info: main: 56
+2018-11-15 16:32:56.276 main.tLog ERROR Info: main: 57
+2018-11-15 16:32:56.276 main.tLog ERROR Info: main: 57
+2018-11-15 16:32:57.221 other.Printlog INFO PrintLog goroutine: 29
+2018-11-15 16:32:57.281 main.tLog ERROR Info: main: 58
+2018-11-15 16:32:57.281 main.tLog ERROR Info: main: 58
+2018-11-15 16:32:58.282 main.tLog ERROR Info: main: 59
+2018-11-15 16:32:58.282 main.tLog ERROR Info: main: 59
+2018-11-15 16:32:59.227 other.Printlog INFO PrintLog goroutine: 30
+2018-11-15 16:32:59.285 main.tLog ERROR Info: main: 60
+2018-11-15 16:32:59.285 main.tLog ERROR Info: main: 60
+[2018-11-15 16:33:32.054] [INFO] other.Printlog  PrintLog goroutine: 0
+[2018-11-15 16:33:32.054] [ERROR] main.tLog  Info: main: 0
+[2018-11-15 16:33:32.054] [ERROR] main.tLog  Info: main: 0
+[2018-11-15 16:33:33.056] [ERROR] main.tLog  Info: main: 1
+[2018-11-15 16:33:33.056] [ERROR] main.tLog  Info: main: 1
+[2018-11-15 16:33:34.058] [INFO] other.Printlog  PrintLog goroutine: 1
+[2018-11-15 16:33:34.061] [ERROR] main.tLog  Info: main: 2
+[2018-11-15 16:33:34.061] [ERROR] main.tLog  Info: main: 2
+[2018-11-15 16:33:35.064] [ERROR] main.tLog  Info: main: 3
+[2018-11-15 16:33:35.064] [ERROR] main.tLog  Info: main: 3
+[2018-11-15 16:33:36.061] [INFO] other.Printlog  PrintLog goroutine: 2
+[2018-11-15 16:33:36.065] [ERROR] main.tLog  Info: main: 4
+[2018-11-15 16:33:36.065] [ERROR] main.tLog  Info: main: 4
+[2018-11-15 16:33:37.065] [ERROR] main.tLog  Info: main: 5
+[2018-11-15 16:33:37.065] [ERROR] main.tLog  Info: main: 5
+[2018-11-15 16:33:38.065] [INFO] other.Printlog  PrintLog goroutine: 3
+[2018-11-15 16:33:38.066] [ERROR] main.tLog  Info: main: 6
+[2018-11-15 16:33:38.066] [ERROR] main.tLog  Info: main: 6
+[2018-11-15 16:33:39.067] [ERROR] main.tLog  Info: main: 7
+[2018-11-15 16:33:39.067] [ERROR] main.tLog  Info: main: 7
+[2018-11-15 16:33:40.067] [INFO] other.Printlog  PrintLog goroutine: 4
+[2018-11-15 16:33:40.070] [ERROR] main.tLog  Info: main: 8
+[2018-11-15 16:33:40.070] [ERROR] main.tLog  Info: main: 8
+[2018-11-15 16:33:41.075] [ERROR] main.tLog  Info: main: 9
+[2018-11-15 16:33:41.075] [ERROR] main.tLog  Info: main: 9
+[2018-11-15 16:33:42.070] [INFO] other.Printlog  PrintLog goroutine: 5
+[2018-11-15 16:33:42.077] [ERROR] main.tLog  Info: main: 10
+[2018-11-15 16:33:42.077] [ERROR] main.tLog  Info: main: 10
+[2018-11-15 16:33:43.079] [ERROR] main.tLog  Info: main: 11
+[2018-11-15 16:33:43.079] [ERROR] main.tLog  Info: main: 11
+[2018-11-15 16:33:44.072] [INFO] other.Printlog  PrintLog goroutine: 6
+[2018-11-15 16:33:44.081] [ERROR] main.tLog  Info: main: 12
+[2018-11-15 16:33:44.084] [ERROR] main.tLog  Info: main: 12
+[2018-11-15 16:33:45.086] [ERROR] main.tLog  Info: main: 13
+[2018-11-15 16:33:45.086] [ERROR] main.tLog  Info: main: 13
+[2018-11-15 16:33:46.074] [INFO] other.Printlog  PrintLog goroutine: 7
+[2018-11-15 16:33:46.090] [ERROR] main.tLog  Info: main: 14
+[2018-11-15 16:33:46.090] [ERROR] main.tLog  Info: main: 14
+[2018-11-15 16:33:47.095] [ERROR] main.tLog  Info: main: 15
+[2018-11-15 16:33:47.095] [ERROR] main.tLog  Info: main: 15
+[2018-11-15 16:33:48.074] [INFO] other.Printlog  PrintLog goroutine: 8
+[2018-11-15 16:33:48.095] [ERROR] main.tLog  Info: main: 16
+[2018-11-15 16:33:48.096] [ERROR] main.tLog  Info: main: 16
+[2018-11-15 16:33:49.096] [ERROR] main.tLog  Info: main: 17
+[2018-11-15 16:33:49.096] [ERROR] main.tLog  Info: main: 17
+[2018-11-15 16:33:50.079] [INFO] other.Printlog  PrintLog goroutine: 9
+[2018-11-15 16:33:50.099] [ERROR] main.tLog  Info: main: 18
+[2018-11-15 16:33:50.099] [ERROR] main.tLog  Info: main: 18
+[2018-11-15 16:33:51.102] [ERROR] main.tLog  Info: main: 19
+[2018-11-15 16:33:51.102] [ERROR] main.tLog  Info: main: 19
+[2018-11-15 16:33:52.081] [INFO] other.Printlog  PrintLog goroutine: 10
+[2018-11-15 16:33:52.107] [ERROR] main.tLog  Info: main: 20
+[2018-11-15 16:33:52.107] [ERROR] main.tLog  Info: main: 20
+[2018-11-15 16:33:53.111] [ERROR] main.tLog  Info: main: 21
+[2018-11-15 16:33:53.111] [ERROR] main.tLog  Info: main: 21
+[2018-11-15 16:34:01.490] [INFO] other.Printlog: PrintLog goroutine: 0
+[2018-11-15 16:34:01.490] [ERROR] main.tLog: Info: main: 0
+[2018-11-15 16:34:01.490] [ERROR] main.tLog: Info: main: 0
+[2018-11-15 16:34:02.494] [ERROR] main.tLog: Info: main: 1
+[2018-11-15 16:34:02.494] [ERROR] main.tLog: Info: main: 1
+[2018-11-15 16:34:03.492] [INFO] other.Printlog: PrintLog goroutine: 1
+[2018-11-15 16:34:03.498] [ERROR] main.tLog: Info: main: 2
+[2018-11-15 16:34:03.498] [ERROR] main.tLog: Info: main: 2
+[2018-11-15 16:34:04.500] [ERROR] main.tLog: Info: main: 3
+[2018-11-15 16:34:04.500] [ERROR] main.tLog: Info: main: 3
+[2018-11-15 16:34:05.496] [INFO] other.Printlog: PrintLog goroutine: 2
+[2018-11-15 16:34:05.500] [ERROR] main.tLog: Info: main: 4
+[2018-11-15 16:34:05.500] [ERROR] main.tLog: Info: main: 4
+[2018-11-15 16:34:06.505] [ERROR] main.tLog: Info: main: 5
+[2018-11-15 16:34:06.505] [ERROR] main.tLog: Info: main: 5
+[2018-11-15 16:34:07.501] [INFO] other.Printlog: PrintLog goroutine: 3
+[2018-11-15 16:34:07.507] [ERROR] main.tLog: Info: main: 6
+[2018-11-15 16:34:07.507] [ERROR] main.tLog: Info: main: 6
+[2018-11-15 16:34:08.508] [ERROR] main.tLog: Info: main: 7
+[2018-11-15 16:34:08.508] [ERROR] main.tLog: Info: main: 7
+[2018-11-15 16:34:09.501] [INFO] other.Printlog: PrintLog goroutine: 4
+[2018-11-15 16:34:09.509] [ERROR] main.tLog: Info: main: 8
+[2018-11-15 16:34:09.509] [ERROR] main.tLog: Info: main: 8
+[2018-11-15 16:34:10.511] [ERROR] main.tLog: Info: main: 9
+[2018-11-15 16:34:10.511] [ERROR] main.tLog: Info: main: 9
+[2018-11-15 16:34:11.502] [INFO] other.Printlog: PrintLog goroutine: 5
+[2018-11-15 16:34:11.515] [ERROR] main.tLog: Info: main: 10
+[2018-11-15 16:34:11.515] [ERROR] main.tLog: Info: main: 10
+[2018-11-15 16:34:12.520] [ERROR] main.tLog: Info: main: 11
+[2018-11-15 16:34:12.520] [ERROR] main.tLog: Info: main: 11
+[2018-11-15 16:34:13.506] [INFO] other.Printlog: PrintLog goroutine: 6
+[2018-11-15 16:34:13.524] [ERROR] main.tLog: Info: main: 12
+[2018-11-15 16:34:13.524] [ERROR] main.tLog: Info: main: 12
+[2018-11-15 16:34:14.528] [ERROR] main.tLog: Info: main: 13
+[2018-11-15 16:34:14.528] [ERROR] main.tLog: Info: main: 13
+[2018-11-15 16:34:15.511] [INFO] other.Printlog: PrintLog goroutine: 7
+[2018-11-15 16:34:15.532] [ERROR] main.tLog: Info: main: 14
+[2018-11-15 16:34:15.532] [ERROR] main.tLog: Info: main: 14
+[2018-11-15 16:34:16.533] [ERROR] main.tLog: Info: main: 15
+[2018-11-15 16:34:16.533] [ERROR] main.tLog: Info: main: 15
+[2018-11-15 16:34:17.515] [INFO] other.Printlog: PrintLog goroutine: 8
+[2018-11-15 16:34:17.537] [ERROR] main.tLog: Info: main: 16
+[2018-11-15 16:34:17.537] [ERROR] main.tLog: Info: main: 16
+[2018-11-15 16:34:18.538] [ERROR] main.tLog: Info: main: 17
+[2018-11-15 16:34:18.538] [ERROR] main.tLog: Info: main: 17
+[2018-11-15 16:34:24.010] [INFO] other.Printlog* PrintLog goroutine: 0
+[2018-11-15 16:34:24.010] [ERROR] main.tLog* Info: main: 0
+[2018-11-15 16:34:24.010] [ERROR] main.tLog* Info: main: 0
+[2018-11-15 16:34:25.011] [ERROR] main.tLog* Info: main: 1
+[2018-11-15 16:34:25.011] [ERROR] main.tLog* Info: main: 1
+[2018-11-15 16:34:26.014] [ERROR] main.tLog* Info: main: 2
+[2018-11-15 16:34:26.014] [ERROR] main.tLog* Info: main: 2
+[2018-11-15 16:34:26.014] [INFO] other.Printlog* PrintLog goroutine: 1
+[2018-11-15 16:34:27.025] [ERROR] main.tLog* Info: main: 3
+[2018-11-15 16:34:27.025] [ERROR] main.tLog* Info: main: 3
+[2018-11-15 16:34:28.022] [INFO] other.Printlog* PrintLog goroutine: 2
+[2018-11-15 16:34:28.026] [ERROR] main.tLog* Info: main: 4
+[2018-11-15 16:34:28.026] [ERROR] main.tLog* Info: main: 4
+[2018-11-15 16:34:34.942] [INFO] other.Printlog - PrintLog goroutine: 0
+[2018-11-15 16:34:34.942] [ERROR] main.tLog - Info: main: 0
+[2018-11-15 16:34:34.942] [ERROR] main.tLog - Info: main: 0
+[2018-11-15 16:34:35.944] [ERROR] main.tLog - Info: main: 1
+[2018-11-15 16:34:35.944] [ERROR] main.tLog - Info: main: 1
+[2018-11-15 16:34:36.946] [INFO] other.Printlog - PrintLog goroutine: 1
+[2018-11-15 16:34:36.949] [ERROR] main.tLog - Info: main: 2
+[2018-11-15 16:34:36.949] [ERROR] main.tLog - Info: main: 2
+[2018-11-15 16:34:44.660] [INFO] other.Printlog: PrintLog goroutine: 0
+[2018-11-15 16:34:44.660] [ERROR] main.tLog: Info: main: 0
+[2018-11-15 16:34:44.660] [ERROR] main.tLog: Info: main: 0
+[2018-11-15 16:34:45.663] [ERROR] main.tLog: Info: main: 1
+[2018-11-15 16:34:45.663] [ERROR] main.tLog: Info: main: 1
